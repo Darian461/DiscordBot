@@ -3,7 +3,7 @@ import asyncio
 
 bot = interactions.Client(
     intents=interactions.Intents.DEFAULT,
-    token='MTMwMTI2Mzk2NTY5NDg1NzIxNg.GLv_V7.4iWurUZSf6wy-UrUXRXTlSZvGC8rX8gbGLBtBM',
+    token='',
 
 )
 
